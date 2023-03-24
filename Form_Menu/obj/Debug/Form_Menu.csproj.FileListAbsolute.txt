@@ -1,0 +1,26 @@
+D:\Lap trinh NET\Form_Menu\Form_Menu\bin\Debug\Form_Menu.exe.config
+D:\Lap trinh NET\Form_Menu\Form_Menu\bin\Debug\Form_Menu.exe
+D:\Lap trinh NET\Form_Menu\Form_Menu\bin\Debug\Form_Menu.pdb
+D:\Lap trinh NET\Form_Menu\Form_Menu\obj\Debug\Form_Menu.csproj.AssemblyReference.cache
+D:\Lap trinh NET\Form_Menu\Form_Menu\obj\Debug\Form_Menu.csproj.SuggestedBindingRedirects.cache
+D:\Lap trinh NET\Form_Menu\Form_Menu\obj\Debug\Form_Menu.Form1.resources
+D:\Lap trinh NET\Form_Menu\Form_Menu\obj\Debug\Form_Menu.Properties.Resources.resources
+D:\Lap trinh NET\Form_Menu\Form_Menu\obj\Debug\Form_Menu.csproj.GenerateResource.cache
+D:\Lap trinh NET\Form_Menu\Form_Menu\obj\Debug\Form_Menu.csproj.CoreCompileInputs.cache
+D:\Lap trinh NET\Form_Menu\Form_Menu\obj\Debug\Form_Menu.exe
+D:\Lap trinh NET\Form_Menu\Form_Menu\obj\Debug\Form_Menu.pdb
+D:\Lap trinh NET\Form_Menu\Form_Menu\obj\Debug\Form_Menu.Form2.resources
+D:\Lap trinh NET\Form_Menu\Form_Menu\obj\Debug\Form_Menu.Form3.resources
+C:\Users\namdo\Downloads\Form_Menu\Form_Menu\bin\Debug\Form_Menu.exe.config
+C:\Users\namdo\Downloads\Form_Menu\Form_Menu\bin\Debug\Form_Menu.exe
+C:\Users\namdo\Downloads\Form_Menu\Form_Menu\bin\Debug\Form_Menu.pdb
+C:\Users\namdo\Downloads\Form_Menu\Form_Menu\obj\Debug\Form_Menu.csproj.AssemblyReference.cache
+C:\Users\namdo\Downloads\Form_Menu\Form_Menu\obj\Debug\Form_Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\namdo\Downloads\Form_Menu\Form_Menu\obj\Debug\Form_Menu.Form1.resources
+C:\Users\namdo\Downloads\Form_Menu\Form_Menu\obj\Debug\Form_Menu.Form2.resources
+C:\Users\namdo\Downloads\Form_Menu\Form_Menu\obj\Debug\Form_Menu.Form3.resources
+C:\Users\namdo\Downloads\Form_Menu\Form_Menu\obj\Debug\Form_Menu.Properties.Resources.resources
+C:\Users\namdo\Downloads\Form_Menu\Form_Menu\obj\Debug\Form_Menu.csproj.GenerateResource.cache
+C:\Users\namdo\Downloads\Form_Menu\Form_Menu\obj\Debug\Form_Menu.csproj.CoreCompileInputs.cache
+C:\Users\namdo\Downloads\Form_Menu\Form_Menu\obj\Debug\Form_Menu.exe
+C:\Users\namdo\Downloads\Form_Menu\Form_Menu\obj\Debug\Form_Menu.pdb
